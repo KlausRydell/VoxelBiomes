@@ -1,4 +1,4 @@
-# VoxelBiomes
+# Voxel Plugin • Biomes Asset Pack
 Assets for creating procedural terrain with biomes using Voxel Plugin 2.0
 
    Tutorial:
