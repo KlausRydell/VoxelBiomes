@@ -129,8 +129,9 @@ Surface Layers have been slightly redone, with individual depth multipliers for 
 
 
 The LOD Depth Multiplier Arrays:
-		Array Element Index = LOD Index
-		Array Element Value = The amount that we want to multiply the depth of the surface Layer for that LOD Index
+
+			Array Element Index = LOD Index
+			Array Element Value = The amount that we want to multiply the depth of the surface Layer for that LOD Index
 
 			This is to fix a spotting artifact between Surface Depth Layers on distant LODs.
 			This is caused by the LOD vertices of the voxel mesh being interpolated to a position lower/higher than the intended depth of the surface layer.
