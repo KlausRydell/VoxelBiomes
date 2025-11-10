@@ -3,7 +3,8 @@ Assets for creating procedural terrain with biomes using Voxel Plugin 2.0
 
    Tutorial:
 
-   Installing
+   Installing:
+   
 Extract the contents of the 'Biomes Plugin.zip' directly into your project's 'Plugins' folder.
 
 In the top left of the Unreal Editor, navigate to Edit→ Plugins→ Installed→ Landscape→ enable: Voxel Plugin • Biomes
