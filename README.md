@@ -141,7 +141,8 @@ The LOD Depth Multiplier Arrays:
 The 'StoneType' Surfaces (New):
 
 A Smart Surface with a recursive template for stacking ore layers using an array of structures.
-With it, you can create custom Stone Types with unique ore generation values that can be easily applied anywhere via biome-slots, stamps, graphs, and painting
+With it, you can create custom Stone Types with unique ore generation values that can be easily applied anywhere via biome-slots, stamps, graphs, and painting.
+
 This is a good way to easily turn rocks/boulders/mountains into a unique point-of-interest for mining with their own ore/stone generation properties by simply applying the custom Stone Type to surface slots.
 		
 		
